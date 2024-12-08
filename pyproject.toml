@@ -1,0 +1,11 @@
+[project]
+name = "fluminense-probability"
+version = "0.1.0"
+description = "Fluminense statistics and probability for the last round of the Brasileirão"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.9.3",
+    "pandas>=2.2.3",
+]
